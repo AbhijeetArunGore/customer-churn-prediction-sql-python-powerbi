@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+ENV/
+
+# Power BI (Temporary files)
+*.tmp
+*.zip
+
+# Operating System
+.DS_Store
+Thumbs.db
